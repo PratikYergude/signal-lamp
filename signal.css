@@ -1,0 +1,28 @@
+.Padole-Square {
+  width: 100px;
+  height: 300px;
+  background-color: #020202;
+  border-radius: 10px;
+  flex-direction:column;
+  display: flex;
+  justify-content: space-between;
+  padding: 50px;
+}
+
+.light {
+  width: 80px;
+  height: 80px;
+  border-radius: 80px;border-color: rgb(246, 245, 244);
+}
+
+.red {
+  background-color: #f00;
+}
+
+.yellow {
+  background-color: #ff0;
+}
+
+.green {
+  background-color: #0f0;
+}
